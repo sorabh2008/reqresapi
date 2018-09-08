@@ -1,0 +1,490 @@
+{
+    "suburb_customers": [
+        {
+          "YEAR": 2006,
+          "postcode": 3000,
+          "individualCount": 7145,
+          "earnings": 291531962,
+          "tax": 139948981,
+          "rent": -1349413,
+          "workExpenses": 9958657
+        },
+        {
+          "YEAR": 2006,
+          "postcode": 3002,
+          "individualCount": 2835,
+          "earnings": 139813915,
+          "tax": 76044709,
+          "rent": -2534401,
+          "workExpenses": 5251189
+        },
+        {
+          "YEAR": 2006,
+          "postcode": 3003,
+          "individualCount": 1515,
+          "earnings": 64581207,
+          "tax": 21150285,
+          "rent": -607517,
+          "workExpenses": 2632838
+        },
+        {
+          "YEAR": 2006,
+          "postcode": 3004,
+          "individualCount": 3625,
+          "earnings": 165044004,
+          "tax": 90269783,
+          "rent": 7295,
+          "workExpenses": 6545945
+        },
+        {
+          "YEAR": 2006,
+          "postcode": 3006,
+          "individualCount": 4675,
+          "earnings": 219872079,
+          "tax": 82083659,
+          "rent": -3490574,
+          "workExpenses": 8447393
+        },
+        {
+          "YEAR": 2006,
+          "postcode": 3008,
+          "individualCount": 2050,
+          "earnings": 101706557,
+          "tax": 36354163,
+          "rent": -2621530,
+          "workExpenses": 4567282
+        },
+        {
+          "YEAR": 2006,
+          "postcode": 3010,
+          "individualCount": 60,
+          "earnings": 2677548,
+          "tax": 866100,
+          "rent": -24626,
+          "workExpenses": 176292
+        },
+        {
+          "YEAR": 2006,
+          "postcode": 3029,
+          "individualCount": 22620,
+          "earnings": 889488551,
+          "tax": 214053845,
+          "rent": -13238235,
+          "workExpenses": 39278702
+        },
+        {
+          "YEAR": 2006,
+          "postcode": 3030,
+          "individualCount": 27095,
+          "earnings": 1085588945,
+          "tax": 273629637,
+          "rent": -13155769,
+          "workExpenses": 49277343
+        },
+        {
+          "YEAR": 2006,
+          "postcode": 3031,
+          "individualCount": 7900,
+          "earnings": 350366607,
+          "tax": 94257236,
+          "rent": -5111161,
+          "workExpenses": 14688115
+        },
+        {
+          "YEAR": 2006,
+          "postcode": 3032,
+          "individualCount": 10580,
+          "earnings": 446859247,
+          "tax": 126104567,
+          "rent": -6657865,
+          "workExpenses": 19781200
+        },
+        {
+          "YEAR": 2006,
+          "postcode": 3033,
+          "individualCount": 6435,
+          "earnings": 231431623,
+          "tax": 61120508,
+          "rent": -2369337,
+          "workExpenses": 9534937
+        },
+        {
+          "YEAR": 2006,
+          "postcode": 3049,
+          "individualCount": 4225,
+          "earnings": 155881105,
+          "tax": 37933365,
+          "rent": -2264095,
+          "workExpenses": 7002612
+        },
+        {
+          "YEAR": 2006,
+          "postcode": 3050,
+          "individualCount": 65,
+          "earnings": 3232522,
+          "tax": 1134431,
+          "rent": -47941,
+          "workExpenses": 144333
+        },
+        {
+          "YEAR": 2006,
+          "postcode": 3051,
+          "individualCount": 4600,
+          "earnings": 178779133,
+          "tax": 55547558,
+          "rent": -1445434,
+          "workExpenses": 7500979
+        },
+        {
+          "YEAR": 2006,
+          "postcode": 3052,
+          "individualCount": 1885,
+          "earnings": 77110022,
+          "tax": 31860297,
+          "rent": -56651,
+          "workExpenses": 3205680
+        },
+        {
+          "YEAR": 2006,
+          "postcode": 3053,
+          "individualCount": 4380,
+          "earnings": 156848126,
+          "tax": 53701434,
+          "rent": -998660,
+          "workExpenses": 6398914
+        },
+        {
+          "YEAR": 2006,
+          "postcode": 3054,
+          "individualCount": 4605,
+          "earnings": 193487368,
+          "tax": 72093872,
+          "rent": -966592,
+          "workExpenses": 7443520
+        },
+        {
+          "YEAR": 2006,
+          "postcode": 3055,
+          "individualCount": 5735,
+          "earnings": 222322131,
+          "tax": 59847295,
+          "rent": -1156278,
+          "workExpenses": 9193255
+        },
+        {
+          "YEAR": 2011,
+          "postcode": 3000,
+          "individualCount": 13885,
+          "earnings": 536293434,
+          "tax": 190034086,
+          "rent": -5734241,
+          "workExpenses": 16621476
+        },
+        {
+          "YEAR": 2011,
+          "postcode": 3002,
+          "individualCount": 3600,
+          "earnings": 206625851,
+          "tax": 110621893,
+          "rent": -4711721,
+          "workExpenses": 7032497
+        },
+        {
+          "YEAR": 2011,
+          "postcode": 3003,
+          "individualCount": 2305,
+          "earnings": 110586746,
+          "tax": 28693131,
+          "rent": -1397801,
+          "workExpenses": 3952259
+        },
+        {
+          "YEAR": 2011,
+          "postcode": 3004,
+          "individualCount": 5740,
+          "earnings": 285666033,
+          "tax": 136068960,
+          "rent": -4144651,
+          "workExpenses": 11214429
+        },
+        {
+          "YEAR": 2011,
+          "postcode": 3006,
+          "individualCount": 7565,
+          "earnings": 388686256,
+          "tax": 149326367,
+          "rent": -8062882,
+          "workExpenses": 13832196
+        },
+        {
+          "YEAR": 2011,
+          "postcode": 3008,
+          "individualCount": 3900,
+          "earnings": 206751644,
+          "tax": 66700374,
+          "rent": -5588375,
+          "workExpenses": 7465940
+        },
+        {
+          "YEAR": 2011,
+          "postcode": 3010,
+          "individualCount": 80,
+          "earnings": 3847159,
+          "tax": 953382,
+          "rent": 12213,
+          "workExpenses": 84515
+        },
+        {
+          "YEAR": 2011,
+          "postcode": 3029,
+          "individualCount": 38415,
+          "earnings": 1567890014,
+          "tax": 302144209,
+          "rent": -23052905,
+          "workExpenses": 73187648
+        },
+        {
+          "YEAR": 2011,
+          "postcode": 3030,
+          "individualCount": 45045,
+          "earnings": 1964287100,
+          "tax": 422995093,
+          "rent": -36782667,
+          "workExpenses": 89382741
+        },
+        {
+          "YEAR": 2011,
+          "postcode": 3031,
+          "individualCount": 10425,
+          "earnings": 507562801,
+          "tax": 123497690,
+          "rent": -8447058,
+          "workExpenses": 19456716
+        },
+        {
+          "YEAR": 2011,
+          "postcode": 3032,
+          "individualCount": 15120,
+          "earnings": 701046234,
+          "tax": 177328955,
+          "rent": -15015737,
+          "workExpenses": 29530017
+        },
+        {
+          "YEAR": 2011,
+          "postcode": 3033,
+          "individualCount": 7610,
+          "earnings": 286156919,
+          "tax": 65634180,
+          "rent": -1989030,
+          "workExpenses": 12691488
+        },
+        {
+          "YEAR": 2011,
+          "postcode": 3049,
+          "individualCount": 5260,
+          "earnings": 209794224,
+          "tax": 43655605,
+          "rent": -3379203,
+          "workExpenses": 9518477
+        },
+        {
+          "YEAR": 2011,
+          "postcode": 3051,
+          "individualCount": 6920,
+          "earnings": 289225901,
+          "tax": 74300602,
+          "rent": -2500668,
+          "workExpenses": 11174337
+        },
+        {
+          "YEAR": 2011,
+          "postcode": 3052,
+          "individualCount": 2805,
+          "earnings": 116714328,
+          "tax": 40141823,
+          "rent": -1041297,
+          "workExpenses": 4640829
+        },
+        {
+          "YEAR": 2011,
+          "postcode": 3053,
+          "individualCount": 6645,
+          "earnings": 238273411,
+          "tax": 67917478,
+          "rent": -1968527,
+          "workExpenses": 8920162
+        },
+        {
+          "YEAR": 2011,
+          "postcode": 3054,
+          "individualCount": 5605,
+          "earnings": 264354387,
+          "tax": 91239835,
+          "rent": -1560841,
+          "workExpenses": 9619663
+        },
+        {
+          "YEAR": 2011,
+          "postcode": 3055,
+          "individualCount": 7850,
+          "earnings": 339893681,
+          "tax": 77092270,
+          "rent": -2508738,
+          "workExpenses": 12802266
+        },
+        {
+          "YEAR": 2016,
+          "postcode": 3000,
+          "individualCount": 21585,
+          "earnings": 854391286,
+          "tax": 284561879,
+          "rent": -4445822,
+          "workExpenses": 23461018
+        },
+        {
+          "YEAR": 2016,
+          "postcode": 3002,
+          "individualCount": 3586,
+          "earnings": 230799216,
+          "tax": 143191704,
+          "rent": -1689243,
+          "workExpenses": 7231957
+        },
+        {
+          "YEAR": 2016,
+          "postcode": 3003,
+          "individualCount": 3571,
+          "earnings": 185119184,
+          "tax": 51148820,
+          "rent": -940688,
+          "workExpenses": 5692508
+        },
+        {
+          "YEAR": 2016,
+          "postcode": 3004,
+          "individualCount": 6941,
+          "earnings": 393650114,
+          "tax": 182856497,
+          "rent": -2731259,
+          "workExpenses": 14058954
+        },
+        {
+          "YEAR": 2016,
+          "postcode": 3006,
+          "individualCount": 12289,
+          "earnings": 687801009,
+          "tax": 233465414,
+          "rent": -4905004,
+          "workExpenses": 21313918
+        },
+        {
+          "YEAR": 2016,
+          "postcode": 3008,
+          "individualCount": 7164,
+          "earnings": 409030018,
+          "tax": 135314166,
+          "rent": -4563830,
+          "workExpenses": 13082474
+        },
+        {
+          "YEAR": 2016,
+          "postcode": 3029,
+          "individualCount": 50354,
+          "earnings": 2237492362,
+          "tax": 468443157,
+          "rent": -28460906,
+          "workExpenses": 101101084
+        },
+        {
+          "YEAR": 2016,
+          "postcode": 3030,
+          "individualCount": 55342,
+          "earnings": 2713217968,
+          "tax": 655104347,
+          "rent": -40235077,
+          "workExpenses": 117765039
+        },
+        {
+          "YEAR": 2016,
+          "postcode": 3031,
+          "individualCount": 10951,
+          "earnings": 610711699,
+          "tax": 165934444,
+          "rent": -5962850,
+          "workExpenses": 20493257
+        },
+        {
+          "YEAR": 2016,
+          "postcode": 3032,
+          "individualCount": 17966,
+          "earnings": 947224181,
+          "tax": 276593057,
+          "rent": -10106115,
+          "workExpenses": 36082283
+        },
+        {
+          "YEAR": 2016,
+          "postcode": 3033,
+          "individualCount": 8084,
+          "earnings": 378078801,
+          "tax": 103973712,
+          "rent": -710197,
+          "workExpenses": 16415947
+        },
+        {
+          "YEAR": 2016,
+          "postcode": 3049,
+          "individualCount": 5397,
+          "earnings": 246846227,
+          "tax": 57547731,
+          "rent": -2997319,
+          "workExpenses": 11711822
+        },
+        {
+          "YEAR": 2016,
+          "postcode": 3051,
+          "individualCount": 7939,
+          "earnings": 374617207,
+          "tax": 116576650,
+          "rent": -1599102,
+          "workExpenses": 12787512
+        },
+        {
+          "YEAR": 2016,
+          "postcode": 3052,
+          "individualCount": 3413,
+          "earnings": 164487871,
+          "tax": 58102289,
+          "rent": -360693,
+          "workExpenses": 5851655
+        },
+        {
+          "YEAR": 2016,
+          "postcode": 3053,
+          "individualCount": 7672,
+          "earnings": 324080603,
+          "tax": 98943658,
+          "rent": 143748,
+          "workExpenses": 10302849
+        },
+        {
+          "YEAR": 2016,
+          "postcode": 3054,
+          "individualCount": 5846,
+          "earnings": 307283428,
+          "tax": 114936557,
+          "rent": 450621,
+          "workExpenses": 10110422
+        },
+        {
+          "YEAR": 2016,
+          "postcode": 3055,
+          "individualCount": 8571,
+          "earnings": 425418318,
+          "tax": 110232670,
+          "rent": -931652,
+          "workExpenses": 15103207
+        }
+       ]
+}

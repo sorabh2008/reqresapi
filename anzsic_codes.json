@@ -1,0 +1,16 @@
+{
+    "anzsic": [
+        {
+          "CODE": 4511,
+          "NAME": "Cafes and Restaurants"
+        },
+        {
+          "CODE": 9111,
+          "NAME": "Health and Fitness Centres and Gymnasia Operation"
+        },
+        {
+          "CODE": 4110,
+          "NAME": "Supermarket and Grocery Stores"
+        }
+       ]
+}

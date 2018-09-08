@@ -1,0 +1,67 @@
+{
+    "suburb": [
+        {
+            "NAME": "Melbourne (CBD)",
+            "POSTCODE": 3000,
+            "state": "VIC",
+            "x-coordinate": -37.81,
+            "y-coordinate": 144.97
+        },
+        {
+            "NAME": "East Melbourne",
+            "POSTCODE": 3002,
+            "state": "VIC",
+            "x-coordinate": -37.82,
+            "y-coordinate": 144.99
+        },
+        {
+            "NAME": "West Melbourne",
+            "POSTCODE": 3003,
+            "state": "VIC",
+            "x-coordinate": -37.81,
+            "y-coordinate": 144.94
+        },
+        {
+            "NAME": "Southbank",
+            "POSTCODE": 3006,
+            "state": "VIC",
+            "x-coordinate": -37.82,
+            "y-coordinate": 144.97
+        },
+        {
+            "NAME": "Docklands",
+            "POSTCODE": 3008,
+            "state": "VIC",
+            "x-coordinate": -37.81,
+            "y-coordinate": 144.95
+        },
+        {
+            "NAME": "Kensington",
+            "POSTCODE": 3031,
+            "state": "VIC",
+            "x-coordinate": -37.79,
+            "y-coordinate": 144.93
+        },
+        {
+            "NAME": "North Melbourne",
+            "POSTCODE": 3051,
+            "state": "VIC",
+            "x-coordinate": -37.91,
+            "y-coordinate": 145.06
+        },
+        {
+            "NAME": "Parkville",
+            "POSTCODE": 3052,
+            "state": "VIC",
+            "x-coordinate": -37.8,
+            "y-coordinate": 144.96
+        },
+        {
+            "NAME": "Carlton",
+            "POSTCODE": 3053,
+            "state": "VIC",
+            "x-coordinate": -37.78,
+            "y-coordinate": 144.97
+        }
+    ]
+}
